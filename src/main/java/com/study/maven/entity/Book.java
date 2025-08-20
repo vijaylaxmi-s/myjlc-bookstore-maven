@@ -1,10 +1,9 @@
 package com.study.maven.entity;
 
-import jakarta.persistence.*;
-import jakarta.validation.constraints.*;
 
 import java.math.BigDecimal;
-import jakarta.persistence.Table;
+import javax.persistence.*;
+import javax.validation.constraints.*;
 
 
 @Entity
